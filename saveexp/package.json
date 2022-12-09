@@ -2,11 +2,11 @@
     "name": "saveexp",
     "version": "1.0.0",
     "dependencies": {
-        "body-parser": "~1.18.3",
+        "body-parser": "~1.20.1",
         "compression": "~1.7.3",
         "cookie-session": "~2.0.0-beta.3",
         "curl": "^0.1.4",
-        "express": "^4.16.4",
+        "express": "^4.18.2",
         "express-session": "^1.15.6",
         "express-validator": "~5.3.1",
         "jade": "^1.11.0",
